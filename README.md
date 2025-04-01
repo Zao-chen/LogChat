@@ -59,7 +59,7 @@
 
 ## 借鉴与引用
 
-- **Vits-simple-api**：[GitHub链接](https://github.com/Artrajz/vits-simple-api/tree/v0.2.0)
+- **Vits-simple-api**：[GitHub链接](https://github.com/Artrajz/vits-simple-api)
 - **Vits-simple-api配置**：[Bilibili视频](https://www.bilibili.com/video/BV1ku4y1R73r)
 - **可用于Vits-simple-api的模型**：
   - [MoeTTS](https://github.com/luoyily/MoeTTS)
